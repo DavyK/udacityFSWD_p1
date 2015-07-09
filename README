@@ -1,0 +1,14 @@
+Data is added to application by editing the ./data/movies.txt file.
+
+The format is tab separated.
+
+
+First = Title
+Second = Year
+Third = Director
+Fourth = art_url
+Fifth = youtube_url
+title of movie\tyear\tDirector's Name\thttp://www.url.to.art\thttp:www.youtube.com/whatever
+
+TO RUN:
+python my_movies.py
